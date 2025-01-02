@@ -1,0 +1,229 @@
+Game Board:
+X | O | X
+O | X | O
+X | - | -
+Moves Made: X -> 1, O -> 2, X -> 3, O -> 4, X -> 5, O -> 6, X -> 7
+Game Result: Player X wins!
+--------------------
+Game Board:
+X | O | O
+X | X | X
+- | O | -
+Moves Made: X -> 4, O -> 8, X -> 6, O -> 2, X -> 1, O -> 3, X -> 5
+Game Result: Player X wins!
+--------------------
+Game Board:
+X | O | X
+O | X | O
+O | X | X
+Moves Made: X -> 1, O -> 2, X -> 3, O -> 4, X -> 5, O -> 6, X -> 8, O -> 7, X -> 9
+Game Result: Player X wins!
+--------------------
+Game Board:
+X | O | X
+X | O | -
+- | O | -
+Moves Made: X -> 1, O -> 2, X -> 3, O -> 5, X -> 4, O -> 8
+Game Result: Player O wins!
+--------------------
+Game Board:
+O | X | O
+X | O | X
+- | X | O
+Moves made: X -> 4, O -> 5, X -> 6, O -> 1, X -> 2, O -> 3, X -> 8, O -> 9
+Game result: Player O wins!
+--------------------
+Game Board:
+X | O | X
+X | O | X
+O | X | O
+Moves made: X -> 1, O -> 2, X -> 3, O -> 7, X -> 8, O -> 9, X -> 4, O -> 5, X -> 6
+Game result: Draw
+--------------------
+Game Board:
+X | O | X
+X | - | -
+X | O | O
+Moves made: d -> 1, h -> 9, d -> 3, h -> 2, d -> 4, h -> 8, d -> 7
+Game result: d (Player X) wins!
+--------------------
+Game Board:
+X | O | -
+O | X | -
+O | X | X
+Moves made: g -> 1, gt -> 7, g -> 5, gt -> 2, g -> 8, gt -> 4, g -> 9
+Game result: g (Player X) wins!
+--------------------
+Game Board:
+X | O | O
+O | X | X
+- | - | X
+Moves made: g -> 1, gt -> 2, g -> 5, gt -> 4, g -> 6, gt -> 3, g -> 9
+Game result: g (Player X) wins!
+--------------------
+Game Board:
+X | X | O
+O | X | -
+O | - | X
+Moves made: Dan -> 1, SLock -> 3, Dan -> 2, SLock -> 4, Dan -> 5, SLock -> 7, Dan -> 9
+Game result: Dan (Player X) wins!
+--------------------
+Game Board:
+X | O | X
+O | X | O
+X | - | -
+Moves made: d -> 1, h -> 2, d -> 3, h -> 4, d -> 5, h -> 6, d -> 7
+Game result: d (Player X) wins!
+--------------------
+Game Board:
+X | O | X
+O | X | O
+X | - | -
+Moves made: d -> 1, h -> 2, d -> 3, h -> 4, d -> 5, h -> 6, d -> 7
+Game result: d (Player X) wins!
+--------------------
+Game Board:
+X | O | -
+- | X | -
+- | O | X
+Moves made: d -> 1, h -> 2, d -> 5, h -> 8, d -> 9
+Game result: d (Player X) wins!
+--------------------
+Game Board:
+X | O | O
+X | X | X
+O | X | O
+Moves made: d -> 1, h -> 7, d -> 8, h -> 9, d -> 5, h -> 3, d -> 4, h -> 2, d -> 6
+Game result: d (Player X) wins!
+--------------------
+Game Board:
+O | O | X
+X | X | O
+X | X | O
+Moves made: d -> 7, h -> 6, d -> 8, h -> 9, d -> 5, h -> 1, d -> 4, h -> 2, d -> 3
+Game result: d (Player X) wins!
+--------------------
+Game Board:
+O | O | X
+X | O | X
+- | X | O
+Moves made: d -> 4, h -> 5, d -> 6, h -> 2, d -> 8, h -> 1, d -> 3, h -> 9
+Game result: h (Player O) wins!
+--------------------
+Game Board:
+X | O | X
+X | O | O
+O | X | X
+Moves made: d -> 1, h -> 5, d -> 3, h -> 7, d -> 9, h -> 2, d -> 8, h -> 6, d -> 4
+Game result: Draw
+--------------------
+Game Board:
+X | X | X
+- | O | O
+O | - | X
+Moves made: d -> 1, h -> 5, d -> 9, h -> 7, d -> 3, h -> 6, d -> 2
+Game result: d (Player X) wins!
+--------------------
+Game Board:
+X | X | O
+O | X | X
+X | O | O
+Moves made: d -> 5, h -> 9, d -> 7, h -> 3, d -> 2, h -> 8, d -> 1, h -> 4, d -> 6
+Game result: Draw
+--------------------Game Board:
+O | - | -
+X | O | -
+X | X | O
+Moves made: D -> 4, H -> 5, D -> 8, H -> 9, D -> 7, H -> 1
+Game result: H (Player O) wins!
+--------------------
+Game Board:
+X | X | O
+- | O | X
+O | X | O
+Moves made: D -> 1, D -> 5, D -> 6, D -> 7, D -> 8, D -> 9, D -> 2, D -> 3
+Game result: D (Player O) wins!
+--------------------
+Game Board:
+X | O | X
+O | X | X
+O | X | O
+Moves made: D -> 1, D -> 2, D -> 3, D -> 7, D -> 8, D -> 9, D -> 5, D -> 4, D -> 6
+Game result: Draw
+--------------------Game Board:
+X | - | -
+X | O | O
+X | - | -
+Moves made: D -> 1, H -> 5, D -> 4, H -> 6, D -> 7
+Game result: D (Player X) wins!
+--------------------
+Game Board:
+X | X | O
+O | O | X
+O | - | X
+Moves made: D -> 1, H -> 5, D -> 9, H -> 7, D -> 6, H -> 4, D -> 2, H -> 3
+Game result: H (Player O) wins!
+--------------------
+Game Board:
+X | - | -
+X | O | O
+X | X | O
+Moves made: x -> 1, y -> 5, x -> 8, y -> 9, x -> 4, y -> 6, x -> 7
+Game result: x (Player X) wins!
+--------------------
+Game Board:
+O | X | O
+X | O | X
+X | O | X
+Moves made: & C:/Users/Denis/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Denis/game.py -> 4, clear -> 5, & C:/Users/Denis/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Denis/game.py -> 6, clear -> 1, & C:/Users/Denis/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Denis/game.py -> 2, clear -> 3, & C:/Users/Denis/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Denis/game.py -> 7, clear -> 8, & C:/Users/Denis/AppData/Local/Programs/Python/Python311/python.exe c:/Users/Denis/game.py -> 9
+Game result: Draw
+--------------------
+Game Board:
+X | O | X
+O | X | X
+O | X | O
+Moves made: f -> 1, ef -> 2, f -> 3, ef -> 4, f -> 6, ef -> 7, f -> 8, ef -> 9, f -> 5
+Game result: Draw
+--------------------
+Game Board:
+X | O | X
+- | O | -
+- | O | X
+Moves made: x -> 1, o -> 5, x -> 3, o -> 8, x -> 9, o -> 2
+Game result: o (Player O) wins!
+--------------------
+Game Board:
+X | X | X
+O | O | X
+O | X | O
+Moves made: x -> 1, o -> 5, x -> 6, o -> 4, x -> 8, o -> 9, x -> 3, o -> 7, x -> 2
+Game result: x (Player X) wins!
+--------------------
+Game Board:
+X | O | X
+O | X | O
+X | - | -
+Moves made:  -> 1, ss -> 2,  -> 3, ss -> 4,  -> 5, ss -> 6,  -> 7
+Game result:  (Player X) wins!
+--------------------
+Game Board:
+X | O | X
+O | X | O
+X | - | -
+Moves made: x -> 1, o -> 2, x -> 3, o -> 4, x -> 5, o -> 6, x -> 7
+Game result: x (Player X) wins!
+--------------------
+Game Board:
+X | O | X
+X | O | X
+O | X | O
+Moves made: x -> 1, o -> 2, x -> 3, o -> 7, x -> 8, o -> 9, x -> 6, o -> 5, x -> 4
+Game result: Draw
+--------------------
+Game Board:
+O | - | X
+O | O | X
+X | - | X
+Moves made: rock -> 7, johncena -> 5, rock -> 3, johncena -> 1, rock -> 9, johncena -> 4, rock -> 6
+Game result: rock (Player X) wins!
+--------------------
