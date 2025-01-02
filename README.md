@@ -30,5 +30,5 @@ This Tic Tac Toe game allows two players to compete in a turn-based match, where
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/Dragatriz/tic-tac-toe.git
+   git clone https://github.com/Dragatriz/tic-tac-toe-game.git
    cd tic-tac-toe
